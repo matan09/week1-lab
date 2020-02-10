@@ -1,0 +1,71 @@
+/* apply style to the whole page */
+body {
+    background-color: goldenrod;
+    font-family: Perpetua, serif;
+    font-size: 20px;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+/* apply style to page-title h1 */
+#page-title {
+    text-shadow: 4px 4px magenta;
+}
+/* apply style to all section div elements */
+.favorite-section{
+    border: 5px black solid;
+    margin: 5px;
+    padding: 10px;
+}
+/* apply style to all h2 */
+.section-header {
+    color: red;
+    font-style: italic;
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+/* apply style to author header */
+#author {
+    text-align: center;
+    color: white;
+}
+
+
+
+/* remove underline from links,
+set background colors */
+a {
+    background-color: lightgreen;
+    text-decoration: none;
+}
+/*  */
+
+
+#favorite-music-name {
+    background-color: fuchsia;
+}
+#favorite-movie-title {
+    background-color: fuchsia;
+}
+#most-favorite-food{
+    background-color: fuchsia;
+}
+/* apply style to table header */
+.table-header {
+    background-color: green;
+    text-align: left;
+    padding: 10px;
+}
+/* add style to the body of the table */
+.table-body {
+    background-color: wheat;
+    padding: 10px;
+}
+
+
